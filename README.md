@@ -1,4 +1,4 @@
-
+7
 ## BugBug Bounty Roadmaps
 
 1) [![Twitter](https://img.shields.io/badge/twitter-@jhaddix-blue.svg)](https://twitter.com/jhaddix)
@@ -24,7 +24,7 @@ Roadmap ](https://drive.google.com/file/d/1H6xMKBMoK6xS4tR_3PGkuJS2PQHAu9f5/view
 5)
 [![Twitter](https://img.shields.io/badge/twitter-@-blue.svg)](https://twitter.com/)
 
-[  Server_Side_Template Roadmap ](https://drive.google.com/file/d/1H4TsKuLmvaLBX9smitr8lOvINt5f5xrX/view?usp=drivesdk)
+[  Server_Side_Template injection Roadmap ](https://drive.google.com/file/d/1H4TsKuLmvaLBX9smitr8lOvINt5f5xrX/view?usp=drivesdk)
 
 ### Donations
 You can encourage me to contribute more to the open source with donations.
