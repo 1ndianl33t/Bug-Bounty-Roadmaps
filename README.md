@@ -8,7 +8,7 @@
 Roadmap ](https://drive.google.com/file/d/1H2NiJKNbtdcwpfY95SgDnM5IpKzYKl-k/view?usp=drivesdk)
 
 2) 
-[![Twitter](https://img.shields.io/badge/twitter-@d0nut-blue.svg)](https://twitter.com/d0nut)
+[![Twitter](https://img.shields.io/badge/twitter-@d0nutptr-blue.svg)](https://twitter.com/d0nutptr)
 
 [  SSRF Techniques
 Roadmap ](https://drive.google.com/file/d/1H6xMKBMoK6xS4tR_3PGkuJS2PQHAu9f5/view?usp=drivesdk)
