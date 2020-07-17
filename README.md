@@ -39,7 +39,7 @@ You can encourage me to contribute more to the open source with donations.
 
 ### Contributers
 
-[![Twitter](https://img.shields.io/badge/twitter-@shivangx01b-blue.svg)](https://twitter.com/shivangx01b)
+
 
 
 ### Contact
