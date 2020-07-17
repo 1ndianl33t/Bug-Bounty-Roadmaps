@@ -28,6 +28,16 @@ Roadmap ](https://drive.google.com/file/d/1H6xMKBMoK6xS4tR_3PGkuJS2PQHAu9f5/view
 
 [  Server_Side_Template injection Roadmap ](https://drive.google.com/file/d/1H4TsKuLmvaLBX9smitr8lOvINt5f5xrX/view?usp=drivesdk)
 
+6)
+
+[![Twitter](https://img.shields.io/badge/twitter-@imranparray101-blue.svg)](https://twitter.com/imranparray101)
+
+[ More 
+Roadmaps ](https://github.com/imran-parray/hacking-methodologies/blob/master/methodolog.md)
+
+
+
+
 ### Donations
 You can encourage me to contribute more to the open source with donations.
 
