@@ -62,8 +62,12 @@ Roadmaps ](https://github.com/imran-parray/hacking-methodologies/blob/master/met
 ![javascript](https://github.com/imran-parray/hacking-methodologies/blob/master/images/my-recon.jpg)
 </br></br></br></br></br></br></br>
 
+## 7) 
+[![Twitter](https://img.shields.io/badge/twitter-@D4V1DH4YP3R-blue.svg)](https://twitter.com/D4V1DH4YP3R)
 
-
+### Nmap
+![javascript](https://github.com/1ndianl33t/Bug-Bounty-Roadmaps/blob/master/IMG_20200720_035523.jpg)
+</br></br></br></br></br></br></br>
 
 ### Donations
 You can encourage me to contribute more to the open source with donations.
