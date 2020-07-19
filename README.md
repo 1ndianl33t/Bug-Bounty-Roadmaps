@@ -63,7 +63,7 @@ Roadmaps ](https://github.com/imran-parray/hacking-methodologies/blob/master/met
 </br></br></br></br></br></br></br>
 
 ## 7) 
-[![Twitter](https://img.shields.io/badge/twitter-@D4V1DH4YP3R-blue.svg)](https://twitter.com/D4V1DH4YP3R)
+[![Twitter](https://img.shields.io/badge/twitter-@D4V1DH4YT3R-blue.svg)](https://twitter.com/D4V1DH4YT3R)
 
 ### Nmap
 ![javascript](https://github.com/1ndianl33t/Bug-Bounty-Roadmaps/blob/master/IMG_20200720_035523.jpg)
